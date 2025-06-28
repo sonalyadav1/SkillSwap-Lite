@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SkillSwap Lite</string>
+    <string name="welcome_to_skillswap">Welcome to SkillSwap</string>
+    <string name="auth_description">Connect with others to exchange skills and knowledge. Sign in to get started!</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="add_skill">Add Skill</string>
+    <string name="skill_title">Skill Title (e.g., I teach Python)</string>
+    <string name="skill_description">Describe your skill and what you can offer</string>
+    <string name="tags">Tags</string>
+    <string name="add_tag">Add tag</string>
+    <string name="add">Add</string>
+    <string name="post_skill">Post Skill</string>
+    <string name="contact">Contact</string>
+    <string name="my_skills">My Skills</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="default_web_client_id">your_web_client_id_here</string>
+</resources>

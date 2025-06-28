@@ -1,0 +1,46 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build Debug APK",
+            "type": "shell",
+            "command": "./gradlew",
+            "args": ["assembleDebug"],
+            "group": "build",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared"
+            },
+            "problemMatcher": "$gradle"
+        },
+        {
+            "label": "Clean Project",
+            "type": "shell",
+            "command": "./gradlew",
+            "args": ["clean"],
+            "group": "build",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared"
+            }
+        },
+        {
+            "label": "Install Debug APK",
+            "type": "shell",
+            "command": "./gradlew",
+            "args": ["installDebug"],
+            "group": "build",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared"
+            },
+            "dependsOn": "Build Debug APK"
+        }
+    ]
+}
