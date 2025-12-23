@@ -1,19 +1,19 @@
-# SkillSwap Lite 🚀
+# SkillSwap Lite 
 
 A peer-to-peer Android application for skill exchange built with Kotlin and Firebase.
 
-## 📱 Overview
+##  Overview
 
 SkillSwap Lite connects people who want to share their skills and learn from others. Users can post skills they can teach (e.g., "I teach Python programming") and browse skills offered by others to find learning opportunities.
 
-## ✨ Features
+## Features
 
 ### Core Features
-- **🔐 Authentication**: Google Sign-in using Firebase Auth
-- **📝 Post Skills**: Create skill posts with title, description, and tags
-- **🔍 Browse Skills**: View all skills in a scrollable list with search capabilities
-- **👤 User Profile**: Manage your posted skills and view your profile
-- **📞 Contact System**: Connect with skill providers
+- ** Authentication**: Google Sign-in using Firebase Auth
+- ** Post Skills**: Create skill posts with title, description, and tags
+- ** Browse Skills**: View all skills in a scrollable list with search capabilities
+- ** User Profile**: Manage your posted skills and view your profile
+- ** Contact System**: Connect with skill providers
 
 ### Technical Features
 - Material Design 3 UI components
@@ -22,7 +22,7 @@ SkillSwap Lite connects people who want to share their skills and learn from oth
 - Image loading with Glide
 - Responsive design for various screen sizes
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Language**: Kotlin
 - **Platform**: Android (API 24+)
@@ -64,7 +64,7 @@ SkillSwap Lite/
 └── README.md
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Android Studio Arctic Fox or later
@@ -123,7 +123,7 @@ service cloud.firestore {
 }
 ```
 
-## 📱 App Screenshots
+##  App Screenshots
 
 ### Main Screens
 - **Authentication**: Google Sign-in screen
@@ -131,7 +131,7 @@ service cloud.firestore {
 - **Post Skill**: Create a new skill post
 - **Profile**: View and manage your skills
 
-## 🎯 Key Components
+##  Key Components
 
 ### Data Models
 - **Skill**: Represents a skill post with title, description, tags
@@ -149,7 +149,7 @@ service cloud.firestore {
 - Cloud storage for profile images
 - Offline support
 
-## 🔧 Build Configuration
+##  Build Configuration
 
 ### Dependencies
 ```gradle
@@ -166,7 +166,7 @@ implementation 'com.google.android.material:material:1.10.0'
 implementation 'com.github.bumptech.glide:glide:4.16.0'
 ```
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - [ ] **In-app Chat**: Real-time messaging between users
 - [ ] **Skill Categories**: Organize skills by categories
@@ -177,14 +177,14 @@ implementation 'com.github.bumptech.glide:glide:4.16.0'
 - [ ] **Profile Pictures**: Upload custom profile images
 - [ ] **Skill Requests**: Post what you want to learn
 
-## 📊 Project Metrics
+##  Project Metrics
 
 - **Minimum SDK**: API 24 (Android 7.0)
 - **Target SDK**: API 34 (Android 14)
 - **Language**: 100% Kotlin
 - **Architecture**: MVVM with Repository pattern
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -192,11 +192,11 @@ implementation 'com.github.bumptech.glide:glide:4.16.0'
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Material Design for UI components
 - Firebase for backend services
@@ -205,10 +205,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Your Name** - your.email@example.com
+**Sonal** - sonal.y6390@gmail.com
 
 Project Link: [https://github.com/yourusername/skillswap-lite](https://github.com/yourusername/skillswap-lite)
 
 ---
 
-*Built with ❤️ for skill sharing and learning*
+
